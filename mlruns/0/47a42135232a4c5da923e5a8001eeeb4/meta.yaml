@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Tairo%20Kageyama/Documents/GitHub/Python-fo-Natural-Language-Processing-main/lab8/mlruns/0/47a42135232a4c5da923e5a8001eeeb4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47a42135232a4c5da923e5a8001eeeb4
+run_name: tmp_trainer
+run_uuid: 47a42135232a4c5da923e5a8001eeeb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711277527935
+status: 1
+tags: []
+user_id: Tairo Kageyama
